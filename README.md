@@ -5,4 +5,5 @@ Auth and CRUD in Echo Framework.
 POST METHOD
 
 ![image](https://user-images.githubusercontent.com/106155587/224694571-2aac0858-3a6d-49e6-aad3-3eea3481a813.png)
+
 GET METHOD
